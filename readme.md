@@ -1,12 +1,22 @@
+# RAGTime
+
+A benchmarking for RAG regarding time.
+
+In `config` there are the instructions with and without RAG on english and chinese.
+
+In `results` are the results from the databases. en stands for english and zh for chinese. Base means without RAG, RAG5 means with 5 documents (passage number) and RAG10 means with 10 documents. Inside each dataset there is a folder `time` that contains all the times for each model and each query.
+
+Work based from [RGB](https://github.com/chen700564/RGB):
+
 # RGB
 
-- An implementation for [Benchmarking Large Language Models in Retrieval-Augmented Generation](https://arxiv.org/abs/2309.01431) 
+- An implementation for [Benchmarking Large Language Models in Retrieval-Augmented Generation](https://arxiv.org/abs/2309.01431)
 
 ## Quick links
 
-* [Environment](#Environment)
-* [Retrieval-Augmented Generation Benchmark](#Retrieval-Augmented)
-* [Evaluation](#Evaluation)
+- [Environment](#Environment)
+- [Retrieval-Augmented Generation Benchmark](#Retrieval-Augmented)
+- [Evaluation](#Evaluation)
 
 ### Environment
 
@@ -40,7 +50,7 @@ python evalue.py \
 --modelname chatgpt \
 --temp 0.2 \
 --noise_rate 0.6 \
---api_key YourAPIKEY 
+--api_key YourAPIKEY
 ```
 
 For evaluating other models, you can run as:
@@ -51,7 +61,7 @@ python evalue.py \
 --modelname chatglm2-6b \
 --temp 0.2 \
 --noise_rate 0.6 \
---plm THUDM/chatglm-6b 
+--plm THUDM/chatglm-6b
 ```
 
 You should change `modelname` and `plm` for different models, where `plm` is the path of model.

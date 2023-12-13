@@ -1,0 +1,100 @@
+{"id": 0, "query": "香港第六届立法会选举有多少个议席？", "ans": "70", "label": [0], "prediction": "\n香港第六届立法会选举共有35个议席，包括22个直选议席和13个功能界别议席。其中直选议席包括22个民主党、1个亲民主派的香港众志、1个亲民主派的香港民主党、1个亲民主派的香港民主党（非法）、1个亲民主派的香港民主党（非法）、1个亲民主派的香港民主党（非法）、1个亲民主派的香港民主党（非法）、1个亲民主派的香港民主党（非法）、1个亲民主派的香港民主党（非法）、1个亲民主派的香港民主党（非法）、1个亲民主派的香港民主党（非法）、1个亲民主派的香港民主党（非法）、1个亲民主派的香港民主党（非法）、1个亲民主派的香港民主党（非法）、1个亲民主派的香港民主党（非法）、1个亲民主派的香港民主党（非法）、1个亲民主派的香港民主党（非法）、1个亲民主派的香港民主党（非法）、1个亲民主派的香港民主党（非法）、1个亲民主派的香港民主党（非法）、1个亲民主派的香港民主党（非法）、1个亲民主派的香港民主党（非法）、1个亲民主派的香港民主党（非法）、1个亲民主派的香港民主党（非法", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 1, "query": "2018年中国城镇新增就业了多少人", "ans": "1361万", "label": [0], "prediction": "\n2018年中国城镇新增就业人数为8.9万人。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 2, "query": "2019年军运会在哪中国哪个城市举办", "ans": "武汉", "label": [1], "prediction": "问题：\n2019年军运会在中国武汉市举办。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 3, "query": "2020赛季中超冠军是谁", "ans": "江苏苏宁", "label": [0], "prediction": "\n2020赛季中超冠军是广州恒大淘宝足球俱乐部。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 4, "query": "2015赛季中超冠军是谁", "ans": "广州恒大", "label": [1], "prediction": "\n2015赛季中超冠军是广州恒大淘宝足球俱乐部。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 5, "query": "中国2019年人口出生率", "ans": "10.48‰", "label": [1], "prediction": "\n中国2019年的出生率为10.48‰，比前一年略微下降。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 6, "query": "中国2018年人口出生率", "ans": "10.94‰", "label": [0], "prediction": "\n答案：\n根据国家统计局发布的数据，2018年中国人口出生率为10.48‰。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 7, "query": "2020年中国经济增长了多少？", "ans": "2.3%", "label": [1], "prediction": "根据国家统计局发布的数据，2020年中国国内生产总值为101.6万亿元人民币，同比增长2.3%。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 8, "query": "2019年中国经济增长了多少？", "ans": "6.1%", "label": [1], "prediction": "2019年中国经济增长率为6.1%。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 9, "query": "电影《头号玩家》的导演是谁", "ans": "史蒂文·斯皮尔伯格", "label": [1], "prediction": "回答：\n电影《头号玩家》的导演是史蒂文·斯皮尔伯格（StevenSpielberg）。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 10, "query": "电影《波西米亚狂想曲》的导演是谁", "ans": "布莱恩·辛格", "label": [1], "prediction": "回答：\n电影《波西米亚狂想曲》的导演是布莱恩·辛格。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 11, "query": "《小时代》的作者是谁？", "ans": "郭敬明", "label": [1], "prediction": "回答：\n《小时代》的作者是郭敬明。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 12, "query": "《唐人街探案3》的上映时间？", "ans": "2021年2月12日", "label": [0], "prediction": "\n《唐人街探案3》的上映时间是2021年7月15日。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 13, "query": "2000年奥运会在哪举办", "ans": ["澳大利亚", "悉尼"], "label": [1, 1], "prediction": "2000年奥运会在澳大利亚的悉尼市举办。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 14, "query": "东京奥运会开幕日期是什么时候", "ans": "2021年7月23日", "label": [1], "prediction": "\n答案：\n东京奥运会开幕日期是2021年7月23日。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 15, "query": "里约奥运会开幕日期是什么时候", "ans": "2016年8月5日", "label": [0], "prediction": "\n答案：\n里约奥运会开幕日期是2016年猴年2月21日。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 16, "query": "2020奥运会在哪举办", "ans": "东京", "label": [1], "prediction": "回答：\n2020奥运会在日本东京举办。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 17, "query": "Minecraft是什么类型的游戏？", "ans": "沙盒", "label": [1], "prediction": "\n回答：\nMinecraft是一款沙盒式在线游戏，玩家可以在其中建造和探索虚拟世界。它最初由瑞典游戏开发公司Mo福祉开发，并迅速成为全球最受欢迎的游戏之一。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 18, "query": "《泰坦尼克号》的编剧是谁", "ans": "詹姆斯·卡梅隆", "label": [1], "prediction": "\n答案：\n《泰坦尼克号》的编剧是詹姆斯·卡梅隆。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 19, "query": "《当幸福来敲门》的编剧是谁", "ans": "斯蒂夫·康拉德", "label": [0], "prediction": "\n答案：\n《当幸福来敲门》的编剧是加布里尔·穆奇诺。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 20, "query": "2020-2021赛季欧冠冠军", "ans": "切尔西", "label": [1], "prediction": "：\n答案：\n2020-2021赛季欧冠冠军是切尔西足球俱乐部。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 21, "query": "2019-2020赛季欧冠冠军", "ans": "拜仁慕尼黑", "label": [0], "prediction": "：\n皇家马德里。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 22, "query": "2018-2019赛季欧冠冠军", "ans": "利物浦", "label": [1], "prediction": "利物浦。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 23, "query": "香港第五任行政长官？", "ans": "林郑月娥", "label": [1], "prediction": "\n答案：\n香港第五任行政长官为林郑月娥。她于2020年1月20日就职，成为香港特别行政区第五任行政长官。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 24, "query": "香港第四任行政长官？", "ans": "梁振英", "label": [0], "prediction": "答案：\n香港第四任行政长官为曾荫权。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 25, "query": "CBA2019-2020赛季总冠军", "ans": "广东", "label": [1], "prediction": "广东队", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 26, "query": "2010年世界杯的举办国在哪", "ans": "南非", "label": [1], "prediction": "2010年世界杯的举办国是南非。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 27, "query": "2016欧洲杯的举办国在哪", "ans": "法国", "label": [1], "prediction": "回答：\n2016欧洲杯的举办国是法国。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 28, "query": "《流浪地球》的导演", "ans": "郭帆", "label": [1], "prediction": "回答：\n《流浪地球》的导演是郭帆。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 29, "query": "《霸王别姬》的导演", "ans": "陈凯歌", "label": [1], "prediction": "回答：\n《霸王别姬》的导演是陈凯歌。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 30, "query": "2018年超级碗冠军是谁", "ans": "费城老鹰", "label": [0], "prediction": "：\n2018年超级碗冠军是旧金山49人队。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 31, "query": "2013年芦山地震的震级", "ans": "7.0级", "label": [1], "prediction": "7.0级。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 32, "query": "2008年汶川地震的时间", "ans": "5月12日", "label": [0], "prediction": "2008年。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 33, "query": "2010年玉树地震的震级", "ans": "7.1级", "label": [0], "prediction": "8.1级。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 34, "query": "2020年美网开始时间", "ans": "8月31日", "label": [0], "prediction": "\n2020年美国网球公开赛（USOpen）开始时间为2020年9月10日至9月20日。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 35, "query": "2019年金砖国家主席国是谁？", "ans": "巴西", "label": [1], "prediction": "\n2019年金砖国家主席国是巴西。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 36, "query": "2018年金砖国家主席国是谁？", "ans": "南非", "label": [0], "prediction": "\n2018年金砖国家主席国是巴西。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 37, "query": "谁刺杀了林肯？", "ans": "约翰·威尔克斯·布斯", "label": [1], "prediction": "\n答案：\n林肯被刺杀于1861年3月14日，由亚伯拉罕·林肯的得力助手、联邦军队将领约翰·威尔克斯·布斯所刺杀。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 38, "query": "谁暗杀了肯尼迪？", "ans": [["李·哈维·奥斯瓦尔德", "李·奥斯瓦尔德", "李•哈维•奥斯瓦尔德"]], "label": [0], "prediction": "\n答案：\n肯尼迪被暗杀的凶手是俄罗斯特工，名叫约翰·肯尼迪。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 39, "query": "小米MIX3的处理器是什么", "ans": "骁龙845", "label": [0], "prediction": "小米MIX3的处理器是高通骁龙2018年的旗鼓相当的处理器，具体型号为高通骁龙2018年的旗鼓相当的处理器，具体型号为高通骁龙2018年的旗鼓相当的处理器，具体型号为高通骁龙2018年的旗鼓相当的处理器，具体型号为高通骁龙2018年的旗鼓相当的处理器，具体型号为高通骁龙2018年的旗鼓相当的处理器，具体型号为高通骁龙2018年的旗鼓相当的处理器，具体型号为高通骁龙2018年的旗鼓相当的处理器，具体型号为高通骁龙2018年的旗鼓相当的处理器，具体型号为高通骁龙2018年的旗鼓相当的处理器，具体型号为高通骁龙2018年的旗鼓相当的处理器，具体型号为高通骁龙2018年的旗鼓相当的处理器，具体型号为高通骁龙2018年的旗鼓相当的处理器，具体型号为高通骁龙2018年的旗鼓相当的处理器，具体型号为高通骁龙2018年的旗鼓相当的处理器，具体型号为高通骁龙2018年的旗鼓相当的处理器，具体型号为高通骁龙2018年的旗鼓相当", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 40, "query": "小米MIX2的处理器是什么", "ans": "骁龙835", "label": [0], "prediction": "小米MIX2的处理器是高通骁龙8150。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 41, "query": "小米MIX1的处理器是什么", "ans": "骁龙821", "label": [0], "prediction": "小米MIX1的处理器是高通骁龙处理器，型号为Snapdragon821。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 42, "query": "F-35战斗机研发国家", "ans": "美国", "label": [1], "prediction": "\nF-35战斗机是美国研发的。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 43, "query": "J-20战斗机研发国家", "ans": "中国", "label": [1], "prediction": "\nJ-20战斗机是中国研发的第五代战斗机，研发国家是中国。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 44, "query": "Rafale战斗机研发国家", "ans": "法国", "label": [1], "prediction": "\nRafale战斗机是法国达索公司研发的，并最终由印度和巴基斯坦两国购买和装备。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 45, "query": "《一出好戏》的导演是谁", "ans": "黄渤", "label": [1], "prediction": "回答：\n《一出好戏》的导演是黄渤。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 46, "query": "《小偷家族》的导演是谁", "ans": "是枝裕和", "label": [1], "prediction": "回答：\n《小偷家族》的导演是是枝裕和。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 47, "query": "2006年世界杯的举办国？", "ans": "德国", "label": [1], "prediction": "\n2006年世界杯的举办国是德国。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 48, "query": "索尼Playstation 4发售日期", "ans": "2013年11月15日", "label": [0], "prediction": "2015年10月17日。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 49, "query": "任天堂Switch发售日期", "ans": "2017年3月3日", "label": [0], "prediction": "2015年10月23日。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 50, "query": "苹果是谁创立的？", "ans": [["史蒂夫·乔布斯", "乔布斯"]], "label": [1], "prediction": "回答：\n苹果是由史蒂夫·乔布斯、斯蒂夫·沃兹尼亚克和罗恩·韦恩创立的。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 51, "query": "2018年女排世锦赛在哪举办", "ans": "日本", "label": [0], "prediction": "\n答案：\n2018年女排世锦赛在意大利的博洛尼亚市举办。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 52, "query": "2019年亚洲杯举办国？", "ans": "阿联酋", "label": [0], "prediction": "卡塔尔。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 53, "query": "张继科是什么项目的", "ans": "乒乓球", "label": [1], "prediction": "\n张继科是中国男子乒乓球运动员，擅长项目为男子单打和男子双打。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 54, "query": "曹缘是什么项目的", "ans": "跳水", "label": [0], "prediction": "\n答案：\n曹缘是现代五项的选手，项目是现代五项。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 55, "query": "2018年谁当选台北市市长", "ans": "柯文哲", "label": [0], "prediction": "：\n2018年，台湾地区领导人选举后，柯建铭当选台北市市长。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 56, "query": "卢沟桥事变的时间", "ans": "1937年7月7日", "label": [1], "prediction": "1937年7月7日。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 57, "query": "2018俄罗斯世界杯的冠军", "ans": "法国", "label": [1], "prediction": "法国队。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 58, "query": "2010南非世界杯的冠军", "ans": "西班牙", "label": [1], "prediction": "：\n西班牙队。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 59, "query": "2018世界杯的举办国是哪个国家", "ans": "俄罗斯", "label": [1], "prediction": "俄罗斯。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 60, "query": "《流浪地球》国内上映日期", "ans": "2019年2月5日", "label": [1], "prediction": "\n回答：\n《流浪地球》国内上映日期为2019年2月5日。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 61, "query": "《毒液》中国上映日期", "ans": "11月9日", "label": [0], "prediction": "\n回答：\n《毒液》中国上映日期为2021年7月9日。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 62, "query": "《复仇者联盟4：终局之战》中国上映日期", "ans": "2019年4月24日", "label": [0], "prediction": "\n\n回答：\n《复仇者联盟4：终局之战》中国上映日期为2019年12月20日。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 63, "query": "2020年央视春晚总导演是谁", "ans": "杨东升", "label": [1], "prediction": "回答：\n2020年央视春晚总导演是杨东升。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 64, "query": "2021年美国众议院议长是谁", "ans": [["南希·佩洛西", "佩洛西"]], "label": [1], "prediction": "\n2021年美国众议院议长是南希·佩洛西。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 65, "query": "2017年美国总统是谁", "ans": [["唐纳德·特朗普", "特朗普"]], "label": [1], "prediction": "唐纳德·特朗普。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 66, "query": "苏联解体在哪一年", "ans": "1991年", "label": [1], "prediction": "1991年。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 67, "query": "巴西的首都在哪", "ans": "巴西利亚", "label": [1], "prediction": "回答：\n巴西的首都是巴西利亚。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 68, "query": "冰心的原名叫什么", "ans": "谢婉莹", "label": [0], "prediction": "答案：\n冰心的原名叫谢冰莹。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 69, "query": "《泰囧》的导演是谁？", "ans": "徐峥", "label": [1], "prediction": "\n《泰囧》的导演是徐峥。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 70, "query": "《人在囧途》的导演是谁？", "ans": "叶伟民", "label": [0], "prediction": "回答：\n《人在囧途》的导演是徐峥。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 71, "query": "《战狼2》中国版的导演是谁", "ans": "吴京", "label": [1], "prediction": "回答：\n《战狼2》中国版的导演是吴京。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 72, "query": "速度与激情8什么时候在内地上映？", "ans": "2017年4月14日", "label": [0], "prediction": "\n回答：\n速度与激情8在内地上映日期为randint（2018,2019）。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 73, "query": "神舟十一号发射时间？", "ans": "2016年10月17日", "label": [0], "prediction": "2021年10月20日。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 74, "query": "嫦娥五号发射时间？", "ans": "2020年11月24日", "label": [0], "prediction": "2021年10月23日。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 75, "query": "GPT-3的发布时间", "ans": "2020年6月", "label": [0], "prediction": "\n回答：GPT-3于2021年5月发布。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 76, "query": "复仇者联盟钢铁侠是谁演的", "ans": "小罗伯特·唐尼", "label": [0], "prediction": "\n钢铁侠由演员罗伯特·唐尼（RobertDowneyJr.）饰演。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 77, "query": "白宫在哪个城市", "ans": "华盛顿", "label": [1], "prediction": "回答：白宫位于美国华盛顿特区。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 78, "query": "尼日利亚的首都在哪", "ans": "阿布贾", "label": [1], "prediction": "回答：\n尼日利亚的首都是阿布贾。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 79, "query": "东盟有多少个成员国", "ans": "10", "label": [1], "prediction": "回答：\n东盟共有10个成员国，分别是：菲律宾、印度尼西亚、马来西亚、新加坡、泰国、缅甸、文莱、柬埔寨、老挝和越南。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 80, "query": "2014年冬奥会在哪举办", "ans": "索契", "label": [1], "prediction": "答案：\n2014年冬奥会于2月4日至2月20日在俄罗斯索契市举办。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 81, "query": "电影《饥饿游戏》的导演是谁", "ans": [["盖瑞·罗斯", "加里·罗斯"]], "label": [0], "prediction": "回答：\n电影《饥饿游戏》的导演是凯瑟琳·毕格罗。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 82, "query": "电影《阿凡达》的导演是谁", "ans": [["詹姆斯·卡梅隆", "卡梅隆"]], "label": [1], "prediction": "回答：\n电影《阿凡达》的导演是詹姆斯·卡梅隆（JamesCameron）。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 83, "query": "《朝花夕拾》的作者是谁", "ans": "鲁迅", "label": [1], "prediction": "\n《朝花夕拾》的作者是鲁迅。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 84, "query": "《哈利·波特》的作者是谁", "ans": [["J·K·罗琳,J.K.罗琳", "罗琳"]], "label": [1], "prediction": "\n答案：\n《哈利·波特》的作者是J·K·罗琳（J.K.Rowling）。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 85, "query": "《三体》的作者是谁", "ans": "刘慈欣", "label": [1], "prediction": "回答：\n《三体》的作者是刘慈欣。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 86, "query": "谁赢得了2020年美国总统选举？", "ans": [["乔·拜登", "拜登"]], "label": [1], "prediction": "乔·拜登赢得了2020年美国总统选举。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 87, "query": "《我不是药神》的导演是谁", "ans": "文牧野", "label": [1], "prediction": "回答：\n《我不是药神》的导演是文牧野。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 88, "query": "维多利亚女王去世时间", "ans": "1901年1月22日", "label": [0], "prediction": "2021年7月20日。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 89, "query": "《神奇女侠1984》的神奇女侠是谁演的", "ans": "盖尔·加朵", "label": [1], "prediction": "\n《神奇女侠1984》的神奇女侠由盖尔·加朵（盖尔·加朵）饰演。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 90, "query": "中国哪一年加入WTO的", "ans": "2001年", "label": [0], "prediction": "\n\n答案：\n中国于1997年加入WTO。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 91, "query": "Facebook公司的新名字是什么", "ans": "Meta", "label": [0], "prediction": "\n回答：\nFacebook公司的新名字是\"FacebookInc.\"。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 92, "query": "澳大利亚的首都在哪", "ans": "堪培拉", "label": [1], "prediction": "答案：\n澳大利亚的首都是堪培拉。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 93, "query": "越南的首都在哪", "ans": "河内", "label": [1], "prediction": "回答：\n越南的首都是河内。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 94, "query": "印度的首都在哪", "ans": "新德里", "label": [1], "prediction": "答案：\n印度的首都是新德里。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 95, "query": "《肖申克的救赎》的导演是谁", "ans": "弗兰克·德拉邦特", "label": [1], "prediction": "回答：\n《肖申克的救赎》的导演是弗兰克·德拉邦特。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 96, "query": "《星际穿越》的导演是谁", "ans": "克里斯托弗·诺兰", "label": [1], "prediction": "回答：\n《星际穿越》的导演是克里斯托弗·诺兰（ChristopherNolan）。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 97, "query": "2008年奥运会是在哪举办的", "ans": "北京", "label": [1], "prediction": "2008年奥运会在中国北京举办。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 98, "query": "2012年奥运会是在哪举办的", "ans": "伦敦", "label": [1], "prediction": "2012年奥运会是在伦敦举办的。", "docs": [], "noise_rate": 0.6, "factlabel": 0}
+{"id": 99, "query": "2004年奥运会是在哪举办的", "ans": "雅典", "label": [1], "prediction": "答案：2004年奥运会是在希腊雅典举办的。", "docs": [], "noise_rate": 0.6, "factlabel": 0}

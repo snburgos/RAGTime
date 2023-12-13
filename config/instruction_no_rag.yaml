@@ -1,0 +1,6 @@
+en:
+  system: 'You are an accurate and reliable AI assistant that can answer questions.'
+  instruction: "Question:\n{QUERY}"
+zh:
+  system: '你是一个准确可靠的人工智能助手，可以回答问题。'
+  instruction: "问题：\n{QUERY}"

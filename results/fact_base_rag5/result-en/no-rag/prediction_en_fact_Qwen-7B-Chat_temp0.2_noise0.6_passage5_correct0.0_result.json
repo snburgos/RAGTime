@@ -1,0 +1,11 @@
+{
+    "all_rate": 0.65,
+    "noise_rate": 0.6,
+    "tt": 65,
+    "nums": 100,
+    "time_average": 2.4139053440093994,
+    "fact_check_rate": 0.0,
+    "correct_rate": 0,
+    "fact_tt": 0,
+    "correct_tt": 0
+}
