@@ -288,7 +288,7 @@ if __name__ == '__main__':
                     docs = []
                 else:
                     query, ans, docs = processdata(
-                        instance, noise_rate, passage_num, args.dataset, args.correct_rate, min_length, max_length, average, total_docs)
+                        instance, noise_rate, passage_num, args.dataset, args.correct_rate)
 
                 label, prediction, factlabel = predict(
                     query, ans, docs, model, system, instruction, temperature, args.dataset)
